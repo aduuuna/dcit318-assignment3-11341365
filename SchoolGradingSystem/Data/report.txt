@@ -1,0 +1,24 @@
+STUDENT GRADE REPORT
+===================
+Generated on: 2025-08-11 16:33:56
+Total Students: 7
+
+INDIVIDUAL RESULTS:
+------------------
+Alice Johnson (ID: 101): Score = 85, Grade = A
+Bob Smith (ID: 102): Score = 72, Grade = B
+Carol Davis (ID: 103): Score = 68, Grade = C
+David Wilson (ID: 104): Score = 91, Grade = A
+Emma Brown (ID: 105): Score = 45, Grade = F
+Frank Miller (ID: 106): Score = 77, Grade = B
+Grace Lee (ID: 107): Score = 83, Grade = A
+
+SUMMARY STATISTICS:
+------------------
+Grade A: 3 students
+Grade B: 2 students
+Grade C: 1 students
+Grade F: 1 students
+Average Score: 74.43
+Highest Score: 91
+Lowest Score: 45
