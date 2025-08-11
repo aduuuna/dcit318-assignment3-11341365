@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "USB-C Cable",
+    "quantity": 30,
+    "dateAdded": "2025-08-11T15:49:38.5066671Z"
+  },
+  {
+    "id": 2,
+    "name": "Wireless Mouse",
+    "quantity": 15,
+    "dateAdded": "2025-08-11T15:49:38.5069811Z"
+  },
+  {
+    "id": 3,
+    "name": "Mechanical Keyboard",
+    "quantity": 8,
+    "dateAdded": "2025-08-11T15:49:38.5069813Z"
+  },
+  {
+    "id": 4,
+    "name": "27\u0022 Monitor",
+    "quantity": 5,
+    "dateAdded": "2025-08-11T15:49:38.5069815Z"
+  },
+  {
+    "id": 5,
+    "name": "Laptop Stand",
+    "quantity": 12,
+    "dateAdded": "2025-08-11T15:49:38.5069816Z"
+  }
+]
